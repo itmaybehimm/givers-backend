@@ -12,7 +12,6 @@ venv
 *.pot
 *.pyc
 *.myenv
-*db.sqlite3
 
 
 
