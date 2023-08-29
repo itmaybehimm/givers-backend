@@ -13,9 +13,6 @@ givers/.env
 *.pot
 *.pyc
 *.myenv
-*db.sqlite3
-db.sqlite3
-
 
 __pycache__/
 local_settings.py
